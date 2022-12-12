@@ -1,4 +1,7 @@
 # 2022-2 객체지향프로그래밍II 프로젝트
 
 
-
+사용한 기술
+HTML, CSS, JAVASCRIPT(AJAX)
+JAVA, JSP, SERVLET
+MYSQL(JDBC,DAO)
